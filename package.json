@@ -1,0 +1,23 @@
+{
+  "name": "jwtauthenticationnodejs",
+  "version": "1.0.0",
+  "description": "JWT API Authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianMM-96/jwtAuthenticationNodejs.git"
+  },
+  "author": "Sebastián Marroquín",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SebastianMM-96/jwtAuthenticationNodejs/issues"
+  },
+  "homepage": "https://github.com/SebastianMM-96/jwtAuthenticationNodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
